@@ -1,0 +1,39 @@
+.header{
+    height: 60px;
+    background-color: #003580;
+    display: flex;
+    justify-content: center;
+}
+.headeContaner{
+    width: 100%;
+    max-width: 1024PX;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logoImg{
+    height: 50PX;
+    padding: 5PX;
+}
+.headItems{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.headButton{
+    margin-left: 20PX;
+    border: none;
+     padding: 5px 10px;
+     cursor: pointer;
+     color:#003580;
+}
+.headListItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+    gap: 5px;
+    cursor: pointer;
+}

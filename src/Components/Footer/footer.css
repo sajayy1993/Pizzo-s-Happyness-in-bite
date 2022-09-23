@@ -1,0 +1,50 @@
+.containerfoo{
+    width: 100%;
+    height: 200px;
+    background-color: #003580 ;
+    margin-top: 20px;
+ 
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+
+
+}
+
+h3{
+    margin-top: 30px;
+    color: white;
+}
+
+.inpu {
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+input{
+    width: 60%;
+    height: 50px;
+    border-radius: 7px;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+}
+.foobtn{
+    height: 50px;
+    width: 100px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color:  #0071c2;
+    color: white;
+
+}
+

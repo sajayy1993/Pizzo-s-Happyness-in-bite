@@ -1,0 +1,46 @@
+.nav{
+    background-color: #003580 ;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+.nav_container{
+    width: 100%;
+    max-width: 1024px;
+    margin: 20px 0px 100px 0px;
+}
+.navList{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+  
+}
+.navListItem{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+   cursor: pointer;
+   font-size: 15px;
+}
+.headPara{
+    margin: 20px 0; 
+}
+.home_heder{
+    color: white;
+    text-decoration: none;
+}
+.home_heder:hover{
+    color: white;
+}
+.headbtn{
+    background-color: #0071c2;
+    color: white;
+    font-weight: 500;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 30px;
+    border-radius: 5px;
+}
+
